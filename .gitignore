@@ -1,0 +1,51 @@
+# Byte-compiled / cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_save
+*.ipynb_convert
+
+# OS noise
+.DS_Store
+Thumbs.db
+__MACOSX/
+
+# Data / outputs / experiment artifacts
+data/
+dataset/
+datasets/
+assets/
+outputs/
+results/
+runs/
+logs/
+checkpoints/
+saved_models/
+cache/
+tmp/
+wandb/
+
+# Archives / large binaries / models
+*.zip
+*.tar
+*.tar.gz
+*.7z
+*.pt
+*.pth
+*.ckpt
+*.npz
+*.npy
+*.h5
+*.onnx
+*.pkl
+*.so
+*.log
+
+# Personal study folder
+Study files/
+
+# Local Colab helper
+colab_bootstrap.ipynb
