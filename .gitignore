@@ -1,0 +1,83 @@
+# -------------------------
+# OS / Editor junk
+# -------------------------
+.DS_Store
+Thumbs.db
+__MACOSX/
+.vscode/
+.idea/
+
+# -------------------------
+# Python / Jupyter
+# -------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+*.ipynb_convert
+*.ipynb_save
+
+# -------------------------
+# Virtual env / secrets
+# -------------------------
+.venv/
+venv/
+.env
+.env.*
+
+# -------------------------
+# Data / Outputs / Logs
+# -------------------------
+data/
+datasets/
+results/
+outputs/
+logs/
+checkpoints/
+weights/
+cache/
+tmp/
+wandb/
+mlruns/
+
+# -------------------------
+# Binaries / Models / Archives
+# -------------------------
+*.whl
+*.dll
+*.so
+*.dylib
+*.exe
+*.zip
+*.tar
+*.tar.gz
+*.7z
+*.ckpt
+*.pt
+*.pth
+*.onnx
+*.h5
+*.npz
+*.npy
+*.pkl
+*.log
+
+# -------------------------
+# CS231n-specific
+# -------------------------
+cs231n/**/cifar-10-batches-py/
+cs231n/**/cs231n/datasets/
+cs231n/**/data/
+cs231n/**/output/
+cs231n/**/outputs/
+cs231n/**/results/
+cs231n/**/checkpoints/
+cs231n/**/weights/
+
+# -------------------------
+# Colab-only dirs
+# -------------------------
+cs231n/assignment1_colab/
+cs231n/assignment2_colab/
+cs231n/assignment3_colab/
