@@ -30,7 +30,7 @@ Linear Algebra, Probability & Information Theory, Machine Learning & Deep Learni
 │ ├─ python_tutorial/ # Python & NumPy tutorial  
 │ ├─ assignment1/ # 2025  
 │ ├─ assignment2/ # 2025  
-│ └─ assignment3/ # 2024  
+│ └─ assignment3/ # 2025  
 └─ cs182/  
 &nbsp;&nbsp;&nbsp;├─ cs182_hw1/ # 2022  
 &nbsp;&nbsp;&nbsp;├─ cs182_hw2/ # 2022  

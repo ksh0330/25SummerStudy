@@ -76,8 +76,8 @@ cs231n/**/checkpoints/
 cs231n/**/weights/
 
 # -------------------------
-# Colab-only dirs
+# Colab-only dirs (commented out to include completed assignments)
 # -------------------------
-cs231n/assignment1_colab/
-cs231n/assignment2_colab/
-cs231n/assignment3_colab/
+# cs231n/assignment1_colab/
+# cs231n/assignment2_colab/
+# cs231n/assignment3_colab/
