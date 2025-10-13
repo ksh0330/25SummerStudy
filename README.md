@@ -28,13 +28,38 @@ Linear Algebra, Probability & Information Theory, Machine Learning & Deep Learni
 25SummerStudy/  
 ├─ cs231n/  
 │ ├─ python_tutorial/ # Python & NumPy tutorial  
-│ ├─ assignment1/ # 2025  
-│ ├─ assignment2/ # 2025  
-│ └─ assignment3/ # 2025  
+│ ├─ assignment1/ # 2025 (Original skeleton)  
+│ ├─ assignment1_colab/ # ✅ **COMPLETED** - k-NN, Softmax, Two-layer NN, Features, FC Networks  
+│ ├─ assignment2/ # 2025 (Original skeleton)  
+│ ├─ assignment2_colab/ # ✅ **COMPLETED** - BatchNorm, ConvNets, Dropout, PyTorch, RNN Captioning  
+│ ├─ assignment3/ # 2025 (Original skeleton)  
+│ └─ assignment3_colab/ # ✅ **COMPLETED** - Self-supervised Learning, Transformers, DDPM, CLIP/DINO  
 └─ cs182/  
 &nbsp;&nbsp;&nbsp;├─ cs182_hw1/ # 2022  
 &nbsp;&nbsp;&nbsp;├─ cs182_hw2/ # 2022  
 &nbsp;&nbsp;&nbsp;└─ cs182_hw3/ # 2022  
+
+## 🎯 Completed Assignments
+
+### CS231n Assignment 1 ✅
+- **k-Nearest Neighbor (kNN)**: Distance calculations, cross-validation
+- **Softmax Classifier**: Loss function and gradient implementation  
+- **Two-layer Neural Network**: Forward/backward pass, training
+- **Image Features**: HOG, HSV color histograms
+- **Fully Connected Networks**: Multi-layer networks with dropout/batch norm
+
+### CS231n Assignment 2 ✅  
+- **Batch Normalization**: Forward/backward pass implementation
+- **Convolutional Networks**: Conv layers, pooling, spatial batch norm
+- **Dropout**: Inverted dropout implementation
+- **PyTorch**: Modern deep learning framework usage
+- **RNN Captioning**: Image captioning with recurrent networks
+
+### CS231n Assignment 3 ✅
+- **Self-Supervised Learning**: SimCLR contrastive learning
+- **Transformer Captioning**: Attention mechanisms for image captioning  
+- **DDPM**: Denoising Diffusion Probabilistic Models
+- **CLIP/DINO**: Vision-language models and self-supervised vision
 
 ## 📚 Sources
 
